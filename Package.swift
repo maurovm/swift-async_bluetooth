@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     
-    name      : "async_bluetooth",
+    name      : "swift-async_bluetooth",
     platforms : [ .iOS("15.2") ],
     products:
         [
