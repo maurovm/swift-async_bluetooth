@@ -12,9 +12,8 @@ Free Software Foundation, version 2 only. Please check the file
 If you use this app in your projects and publish the results, please cite the
 following manuscript:
 
-> Villarroel, M. and Davidson, S., 2022. Open-source mobile platform for
-recording physiological data. arXiv preprint arXiv:1001.0001.
-<span style="color:red">(TODO: Write the paper)</span>
+> Villarroel, M. and Davidson, S. "Open-source software mobile platform for
+physiological data acquisition". arXiv (In preparation). 2022
 
 ---
 
